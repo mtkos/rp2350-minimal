@@ -1,0 +1,8 @@
+*.elf
+*.bin
+*.asm
+*.map
+*.uf2
+*.dmp
+*.pio.h
+*.html
